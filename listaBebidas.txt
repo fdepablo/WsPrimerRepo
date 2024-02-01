@@ -2,3 +2,6 @@ Cerveza
 Ron con cocacola
 Calimocho con licor de mora
 Cocacola
+Monster piña
+Monster mango
+Monster cereza
