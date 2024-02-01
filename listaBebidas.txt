@@ -2,3 +2,6 @@ Cerveza
 Ron con cocacola
 Calimocho con licor de mora
 Cocacola
+Fanta de naranja
+Fanta de limon
+Fanta de uva
